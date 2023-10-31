@@ -1,0 +1,7 @@
+5 5
+
++ house
++ traps
++ monet
++ hated
++ zij
